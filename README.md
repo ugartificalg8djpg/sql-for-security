@@ -6,6 +6,8 @@ Each lab shows the security problem, the queries I wrote, what the results told 
 
 **Environment:** MariaDB · `organization` database
 
+📄 **[View the full portfolio (PDF)](docs/SQL_Portfolio.pdf)**: every lab written up with queries, findings and the security reasoning behind them.
+
 ## Labs
 
 | # | Lab | Skills | Status |
@@ -36,6 +38,8 @@ Each lab shows the security problem, the queries I wrote, what the results told 
 ```
 sql-for-security/
 ├── README.md
+├── docs/
+│   └── SQL_Portfolio.pdf
 ├── labs/
 │   └── 01-select-from-order-by/
 │       ├── README.md
