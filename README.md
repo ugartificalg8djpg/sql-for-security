@@ -8,6 +8,15 @@ Each lab shows the security problem, the queries I wrote, what the results told 
 
 📄 **[View the full portfolio (PDF)](docs/SQL_Portfolio.pdf)**: every lab written up with queries, findings and the security reasoning behind them.
 
+## Portfolio preview
+
+<table>
+<tr><td><a href="docs/pages/page-1.png"><img src="docs/pages/page-1.png" width="400" alt="Portfolio page 1"></a></td><td><a href="docs/pages/page-2.png"><img src="docs/pages/page-2.png" width="400" alt="Portfolio page 2"></a></td></tr>
+<tr><td><a href="docs/pages/page-3.png"><img src="docs/pages/page-3.png" width="400" alt="Portfolio page 3"></a></td><td><a href="docs/pages/page-4.png"><img src="docs/pages/page-4.png" width="400" alt="Portfolio page 4"></a></td></tr>
+<tr><td><a href="docs/pages/page-5.png"><img src="docs/pages/page-5.png" width="400" alt="Portfolio page 5"></a></td><td><a href="docs/pages/page-6.png"><img src="docs/pages/page-6.png" width="400" alt="Portfolio page 6"></a></td></tr>
+<tr><td><a href="docs/pages/page-7.png"><img src="docs/pages/page-7.png" width="400" alt="Portfolio page 7"></a></td><td><a href="docs/pages/page-8.png"><img src="docs/pages/page-8.png" width="400" alt="Portfolio page 8"></a></td></tr>
+</table>
+
 ## Labs
 
 | # | Lab | Skills | Status |
@@ -39,7 +48,8 @@ Each lab shows the security problem, the queries I wrote, what the results told 
 sql-for-security/
 ├── README.md
 ├── docs/
-│   └── SQL_Portfolio.pdf
+│   ├── SQL_Portfolio.pdf
+│   └── pages/
 ├── labs/
 │   └── 01-select-from-order-by/
 │       ├── README.md
